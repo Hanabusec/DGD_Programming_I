@@ -1,0 +1,135 @@
+// See https://aka.ms/new-console-template for more information
+//Console.WriteLine("Hello, World!");
+
+//Methods - Void Methods
+
+//What methods are
+//How to define void methods
+//The difference between defining the method and calling it
+//Parameter and argument
+
+//method is a piece of code that can be executed multiple times by referring its name.
+
+
+List<string> todos = new List<string>();
+
+
+
+while(true)
+{
+    Console.WriteLine("Hello!");
+    Console.WriteLine("What do you want to d0?");
+    Console.WriteLine("Press S to see all TODOs");
+    Console.WriteLine("Press A to add a TODO");
+    Console.WriteLine("Press R remove a TODO");
+    Console.WriteLine("Press E to exit");
+
+    string userChoice = Console.ReadLine();
+
+    if (userChoice == "S")
+    {
+        Print("See all TODOs");
+        //Console.WriteLine("Selected Option: See all TODOs");
+    }
+    else if (userChoice == "A")
+    {
+        Print("Add a TODOs");
+        AddToDo();
+        //Console.WriteLine("Selected Option: Add a TODOs");
+    }
+    else if (userChoice == "R")
+    {
+        Print("Remove a TODos");
+        //Console.WriteLine("Selected Option: Remove a TODOs");
+    }
+    else if (userChoice == "E")
+    {
+        Print("Exit");
+        //Console.WriteLine("Selected Option: Exit");
+    }
+    else
+    {
+        Console.WriteLine("Wrong input");
+    }
+
+}
+
+
+
+void AddToDo()
+{
+    Console.WriteLine("Please enter your TODO");
+    todos.Add(Console.ReadLine());
+    Console.WriteLine("You have added a new to do: " + todos[0]);
+}
+
+//Print - method name
+//void - that means this method does not return anything. Execute code block.
+//parameter - are the names listed in the method definiton
+//argument - 
+
+
+void Print(string seçenek)
+{
+    Console.WriteLine("Selected option: " + seçenek);
+}
+
+//Methods - Non Void Methods
+//return type - int, string, bool, list, array 
+//"return" keyword
+
+//int result;
+
+//Console.WriteLine("Enter number1: ");
+//int number1 = int.Parse(Console.ReadLine());
+//Console.WriteLine("Enter number2: ");
+//int number2 = int.Parse(Console.ReadLine());
+
+//Add(number1, number2);
+//void Add(int number1, int number2)
+//{
+//    int result = number1 + number2;
+//    Console.WriteLine("Result is: " + result);
+//}
+
+//int Addition(int a, int b)
+//{
+//    //if(a+b > 10)
+//    //{
+//    //    return a + b;
+//    //}
+//    return a + b;
+
+//}
+
+//int result = Addition(5, 10);
+
+//bool IsLong(string input)
+//{
+//    if(input.Length > 5)
+//    {
+//        return true;
+//    }
+//    return false;
+//}
+
+//bool IsShort()
+//{
+//    Console.WriteLine("Please enter your name: ");
+//    string input = Console.ReadLine();
+    
+//    if (input.Length > 5)
+//    {
+//        return true;
+//    }
+//    return false;
+//}
+
+//string userChoice = Console.ReadLine();
+//bool isLong = IsLong(userChoice);
+//Console.WriteLine(isLong);
+//bool isShort = IsShort();
+//Console.WriteLine(isShort);
+
+Console.ReadKey();
+
