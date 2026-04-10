@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "20_OOP_Fields_Properties_Constructs/1.0.0": {
+        "runtime": {
+          "20_OOP_Fields_Properties_Constructs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20_OOP_Fields_Properties_Constructs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
