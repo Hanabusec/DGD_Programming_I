@@ -1,0 +1,14 @@
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\bin\Debug\net8.0\17_Methods_TODO.exe
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\bin\Debug\net8.0\17_Methods_TODO.deps.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\bin\Debug\net8.0\17_Methods_TODO.runtimeconfig.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\bin\Debug\net8.0\17_Methods_TODO.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\bin\Debug\net8.0\17_Methods_TODO.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\17_Methods_TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\17_Methods_TODO.AssemblyInfoInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\17_Methods_TODO.AssemblyInfo.cs
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\17_Methods_TODO.csproj.CoreCompileInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\17_Methods_TODO.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\refint\17_Methods_TODO.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\17_Methods_TODO.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\17_Methods_TODO.genruntimeconfig.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\17_Methods_TODO\obj\Debug\net8.0\ref\17_Methods_TODO.dll

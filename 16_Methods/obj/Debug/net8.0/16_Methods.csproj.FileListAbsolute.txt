@@ -1,0 +1,14 @@
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\bin\Debug\net8.0\16_Methods.exe
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\bin\Debug\net8.0\16_Methods.deps.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\bin\Debug\net8.0\16_Methods.runtimeconfig.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\bin\Debug\net8.0\16_Methods.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\bin\Debug\net8.0\16_Methods.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\16_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\16_Methods.AssemblyInfoInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\16_Methods.AssemblyInfo.cs
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\16_Methods.csproj.CoreCompileInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\16_Methods.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\refint\16_Methods.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\16_Methods.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\16_Methods.genruntimeconfig.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\16_Methods\obj\Debug\net8.0\ref\16_Methods.dll

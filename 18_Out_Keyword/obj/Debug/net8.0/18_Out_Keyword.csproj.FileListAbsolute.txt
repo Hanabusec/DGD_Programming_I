@@ -1,0 +1,14 @@
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\bin\Debug\net8.0\18_Out_Keyword.exe
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\bin\Debug\net8.0\18_Out_Keyword.deps.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\bin\Debug\net8.0\18_Out_Keyword.runtimeconfig.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\bin\Debug\net8.0\18_Out_Keyword.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\bin\Debug\net8.0\18_Out_Keyword.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\18_Out_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\18_Out_Keyword.AssemblyInfoInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\18_Out_Keyword.AssemblyInfo.cs
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\18_Out_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\18_Out_Keyword.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\refint\18_Out_Keyword.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\18_Out_Keyword.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\18_Out_Keyword.genruntimeconfig.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\18_Out_Keyword\obj\Debug\net8.0\ref\18_Out_Keyword.dll
