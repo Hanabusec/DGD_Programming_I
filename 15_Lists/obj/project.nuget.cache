@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p36iL7GpbYE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coskunemi\\Desktop\\MEF\\MEF_25_26\\Courses\\DGD103_Programming_I\\SPRING\\Programming_Visual_Studio\\Programming_I\\15_Lists\\15_Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coskunemi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\coskunemi\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\coskunemi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\coskunemi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

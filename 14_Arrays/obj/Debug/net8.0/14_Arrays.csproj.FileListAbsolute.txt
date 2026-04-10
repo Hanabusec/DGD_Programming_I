@@ -1,0 +1,14 @@
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\bin\Debug\net8.0\14_Arrays.exe
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\bin\Debug\net8.0\14_Arrays.deps.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\bin\Debug\net8.0\14_Arrays.runtimeconfig.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\bin\Debug\net8.0\14_Arrays.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\bin\Debug\net8.0\14_Arrays.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\14_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\14_Arrays.AssemblyInfoInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\14_Arrays.AssemblyInfo.cs
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\14_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\14_Arrays.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\refint\14_Arrays.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\14_Arrays.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\14_Arrays.genruntimeconfig.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\14_Arrays\obj\Debug\net8.0\ref\14_Arrays.dll

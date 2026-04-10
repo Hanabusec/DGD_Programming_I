@@ -1,0 +1,14 @@
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\bin\Debug\net8.0\15_Lists.exe
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\bin\Debug\net8.0\15_Lists.deps.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\bin\Debug\net8.0\15_Lists.runtimeconfig.json
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\bin\Debug\net8.0\15_Lists.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\bin\Debug\net8.0\15_Lists.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\15_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\15_Lists.AssemblyInfoInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\15_Lists.AssemblyInfo.cs
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\15_Lists.csproj.CoreCompileInputs.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\15_Lists.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\refint\15_Lists.dll
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\15_Lists.pdb
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\15_Lists.genruntimeconfig.cache
+C:\Users\coskunemi\Desktop\MEF\MEF_25_26\Courses\DGD103_Programming_I\SPRING\Programming_Visual_Studio\Programming_I\15_Lists\obj\Debug\net8.0\ref\15_Lists.dll
